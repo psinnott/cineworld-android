@@ -1,3 +1,30 @@
+Features
+
+- Loads and display todays and tomrrows Cinerworld schedule for Ireland and UK
+- Automatically refreshes every couple of hours
+- Supports only refreshing data when connected to wireless lan.
+- Supports optional display of film poster
+- Supports filtering by age classification
+- Supports filtering out already view or disliked films
+- Integration with IMDB for viewing additional film data
+- Schedule can be viewed
+  - sorted by date and time
+  - sorted and grouped by title
+  - sorted and grouped by day and title
+
+
+Future Features
+
+- Displaying tick availability
+
+Far Future Features
+
+- Selecting multiple cinemas 
+- Help scheduling viewing sequential films ( Unlimited card FTW )
+
+
+Changelog
+
 2.3 20th July 2010
 
 Sort by title and date/title now support groups so only 1 row is displayed per film.
