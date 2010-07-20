@@ -1,3 +1,9 @@
+2.3 20th July 2010
+
+Sort by title and date/title now support groups so only 1 row is displayed per film.
+IMDB integration , long click on a film to view its information in the IMDB app ( if installed )
+
+
 2.2 17th July 2010
 
 Display film classification (age)
