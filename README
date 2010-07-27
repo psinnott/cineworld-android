@@ -26,6 +26,14 @@ Far Future Features
 
 Changelog
 
+2.5 27th July 2010
+
+Fix cinema sorting
+Fix handling of films without a classification
+Add date and month to new film notification as films can be added more than a week ahead of their first show
+
+
+
 2.4 26th July 2010
 
 Notifications for new film releases
