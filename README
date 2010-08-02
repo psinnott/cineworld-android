@@ -14,10 +14,6 @@ Features
 - Notifications as new films become available
 
 
-Future Features
-
-- Displaying ticket availability
-
 Far Future Features
 
 - Selecting multiple cinemas 
@@ -30,6 +26,8 @@ Changelog
 
 Add preference for number of days to download
 Add menu icons
+Highlight sold out performances in red.
+
 
 
 2.5 27th July 2010
