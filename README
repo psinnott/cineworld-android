@@ -1,7 +1,9 @@
 Features
 
-- Loads and display todays and tomrrows Cinerworld schedule for Ireland and UK
+- Loads and display up to a week of Cinerworlds schedule for Ireland and UK
 - Automatically refreshes every couple of hours
+- Trailers
+- Clearly indicates if a showing is sold out
 - Supports only refreshing data when connected to wireless lan.
 - Supports optional display of film poster
 - Supports filtering by age classification
