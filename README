@@ -22,12 +22,15 @@ Far Future Features
 
 Changelog
 
-2.6 1st August 2010
+2.6 4th August 2010
 
 Add preference for number of days to download
 Add menu icons
-Color code based on performance availability ( grey = old , red = sold out , blue = available )
-
+Colour code based on performance availability ( grey = old , red = sold out , blue = available )
+Add trailers
+Add manual refresh per film (so you can check current availability of popular films)
+Add manual refresh
+Fix 2 showings of the same film starting at the same time
 
 
 2.5 27th July 2010
