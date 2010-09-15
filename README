@@ -26,13 +26,14 @@ Changelog
 
 2.8.2 TBD
 
+
 Bug fix ( no network connection available, missing film data )
 
 
 2.8.1 2nd September 2010
 
 Display cinema name on main screen.
-Bug fix (fix slow entry to settings screen)
+Bug fix (fix slow entry to settings screen , prepackaged cinema list contains Dublin , starts on device bootup )
 
 
 2.8 30th August 2010
