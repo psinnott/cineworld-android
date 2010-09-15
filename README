@@ -27,7 +27,8 @@ Changelog
 2.8.2 TBD
 
 
-Bug fix ( no network connection available, missing film data , Dublin is present in the preloaded cinema list , starts on device bootup correctly )
+Bug fix ( no network connection available, missing film data , 
+          Dublin is present in the preloaded cinema list , starts on device bootup correctly )
 
 
 2.8.1 2nd September 2010
