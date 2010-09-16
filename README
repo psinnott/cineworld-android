@@ -24,11 +24,13 @@ Far Future Features
 
 Changelog
 
-2.8.2 TBD
+2.8.2 17th September 2010
 
+Color rejigs
 
 Bug fix ( no network connection available, missing film data , 
-          Dublin is present in the preloaded cinema list , starts on device bootup correctly )
+          Dublin is present in the preloaded cinema list , starts on device bootup correctly ,
+          Smarter cache cleanup on bootup )
 
 
 2.8.1 2nd September 2010
