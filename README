@@ -3,6 +3,8 @@ Features
 - Loads and display up to a week of Cinerworlds schedule for Ireland and UK
 - Automatically refreshes every couple of hours
 - Trailers
+- Film information
+- Booking integration
 - Clearly indicates if a showing is sold out
 - Supports only refreshing data when connected to wireless lan.
 - Supports optional display of film poster
@@ -24,6 +26,15 @@ Far Future Features
 
 Changelog
 
+2.8.6 ?
+
+Default cinema and country based on location at install time
+Load only 1 days data on first load to speed it up slightly
+Navigate to film information from new film notification
+Clear new film notifications when clicked
+
+
+Bug fixes ( fix force close when viewing film filter without selecting cinema ) 
 2.8.5 25th September 2010
 
 Correct refresh and cache values
