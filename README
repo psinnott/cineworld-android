@@ -26,15 +26,17 @@ Far Future Features
 
 Changelog
 
-2.8.6 ?
+2.8.6 14th October 2010
 
 Default cinema and country based on location at install time
 Load only 1 days data on first load to speed it up slightly
 Navigate to film information from new film notification
 Clear new film notifications when clicked
-
+Setting to default sort and grouping mode on launch
 
 Bug fixes ( fix force close when viewing film filter without selecting cinema ) 
+
+
 2.8.5 25th September 2010
 
 Correct refresh and cache values
