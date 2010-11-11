@@ -16,6 +16,7 @@ Features
   - sorted and grouped by title
   - sorted and grouped by day and title
 - Notifications as new films become available
+- Post reviews on Facebook
 
 
 Far Future Features
@@ -25,6 +26,12 @@ Far Future Features
 
 
 Changelog
+
+2.8.8 11th November 2010
+
+Support for Android 1.6
+Post reviews on Facebook
+
 
 2.8.7 3rd November 2010
 
