@@ -1,6 +1,7 @@
 Features
 
 - Loads and display up to a week of Cinerworlds schedule for Ireland and UK
+- Supports viewing multiple cinemas data
 - Automatically refreshes every couple of hours
 - Trailers
 - Film information
@@ -26,6 +27,13 @@ Far Future Features
 
 
 Changelog
+
+2.9 XXth February 2010
+
+View multiple cinemas at once
+Respects sync settings
+Now possible to manually refresh in wifi only mode when no wifi available
+
 
 2.8.9 11th November 2010
 
