@@ -22,7 +22,7 @@ Features
 
 Far Future Features
 
-- Selecting multiple cinemas 
+
 - Help scheduling viewing sequential films ( Unlimited card FTW )
 
 
@@ -33,6 +33,7 @@ Changelog
 View multiple cinemas at once
 Respects sync settings
 Now possible to manually refresh in wifi only mode when no wifi available
+Radio buttons for selecting sort replaced with swipe
 
 
 2.8.9 11th November 2010
