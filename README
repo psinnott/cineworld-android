@@ -28,13 +28,14 @@ Far Future Features
 
 Changelog
 
-2.9 XXth February 2010
+2.9 XXth August 2011
 
 View multiple cinemas at once
 Respects sync settings
 Now possible to manually refresh in wifi only mode when no wifi available
 Radio buttons for selecting sort replaced with swipe
 Modify film titles so 2d and 3d films sort together
+Lame about page to point to awesome SwipeView library
 
 
 2.8.9 11th November 2010
