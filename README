@@ -36,7 +36,7 @@ Now possible to manually refresh in wifi only mode when no wifi available
 Radio buttons for selecting sort replaced with swipe
 Modify film titles so 2d and 3d films sort together
 Lame about page to point to awesome SwipeView library
-
+Updated performance display to appear better with smaller screens (hopefully)
 
 2.8.9 11th November 2010
 
