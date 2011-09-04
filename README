@@ -28,6 +28,16 @@ Far Future Features
 
 Changelog
 
+2.9c 4th September 2011
+
+Fix force close at launch due to db locking
+
+
+2.9b 2nd September 2011
+
+Fix color of cinema list during scroll
+
+
 2.9 31st August 2011
 
 View multiple cinemas at once
