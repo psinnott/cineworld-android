@@ -6,6 +6,7 @@ Features
 - Trailers
 - Film information
 - Booking integration
+- Coming soon
 - Clearly indicates if a showing is sold out
 - Supports only refreshing data when connected to wireless lan.
 - Supports optional display of film poster
@@ -27,6 +28,14 @@ Far Future Features
 
 
 Changelog
+
+2.9.1 14th September 2011
+
+Coming soon films
+Only respect background sync setting for automatic refreshes
+Initiate sync even if one is not due if < 5 md5 nammed files are available
+Warn wifi only users the data may be out of date
+
 
 2.9c 4th September 2011
 
