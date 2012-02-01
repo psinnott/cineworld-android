@@ -21,13 +21,24 @@ Features
 - Post reviews on Facebook
 
 
-Far Future Features
-
-
-- Help scheduling viewing sequential films ( Unlimited card FTW )
-
 
 Changelog
+
+2.9.2 ? January 2012
+
+Film scheduling i.e. helping you see 2 or more films in a row
+Quick hide a film from the main screen
+Hide films in comming soon once they are released
+Quick filter by Cinema from title bar
+
+TODO
+
+Integrating with IMDB website when app is not avaiable
+Color coding e.g. kids movies
+Fix issue with 3D IMAX movies
+Replace/supplement long press with thingy
+Action bar
+New cineworlds in default data e.g. Leigh
 
 2.9.1 14th September 2011
 
