@@ -24,6 +24,13 @@ Features
 
 Changelog
 
+2.9.3 20th February 2012
+
+Enable hardware acceleration for Android 3+
+Layout fix for Galaxy Nexus
+ANR and crash fixes
+
+
 2.9.2 8th February 2012
 
 Film scheduling i.e. helping you see 2 or more films in a row
