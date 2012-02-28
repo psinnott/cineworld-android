@@ -24,6 +24,15 @@ Features
 
 Changelog
 
+2.9.4 28th February 2012
+
+Layout fix for Galaxy Nexus
+Data sync fix for cinemas with partial film data
+Data sync fix for coming soon
+Trailers restored
+Posters restored for search results
+
+
 2.9.3 20th February 2012
 
 Enable hardware acceleration for Android 3+
