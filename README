@@ -30,6 +30,7 @@ Fix sorting by date for comming soon
 Fix color of junior files in sort by time view
 Add support for imax,sky and dbox colors
 Add support for color of other film types 
+Async image loading for posters
 
 
 2.9.4 28th February 2012
