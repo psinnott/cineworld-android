@@ -31,6 +31,9 @@ Fix color of junior files in sort by time view
 Add support for imax,sky and dbox colors
 Add support for color of other film types 
 Async image loading for posters
+Updated to ICS Action Bar
+Remove legacy menu button on ICS devices
+Remove OpenFeint integration
 
 
 2.9.4 28th February 2012
