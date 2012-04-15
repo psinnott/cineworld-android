@@ -34,6 +34,8 @@ Async image loading for posters
 Updated to ICS Action Bar
 Remove legacy menu button on ICS devices
 Remove OpenFeint integration
+Replace progress bar with native actionbar progressbar
+Add tabs to coming soon
 
 
 2.9.4 28th February 2012
