@@ -36,6 +36,8 @@ Remove legacy menu button on ICS devices
 Remove OpenFeint integration
 Replace progress bar with native actionbar progressbar
 Add tabs to coming soon
+Add tabs to main screen
+Move cinema select from list navigation to action
 
 
 2.9.4 28th February 2012
