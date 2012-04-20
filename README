@@ -24,20 +24,22 @@ Features
 
 Changelog
 
-2.9.5 ?
+2.9.5 20th April 2012
+
+Bug Fixes
 
 Fix sorting by date for comming soon
 Fix color of junior files in sort by time view
+
+
 Add support for imax,sky and dbox colors
-Add support for color of other film types 
-Async image loading for posters
-Updated to ICS Action Bar
-Remove legacy menu button on ICS devices
+Add async image loading for posters
 Remove OpenFeint integration
+
+
+Finished conversion to Action Bar
 Replace progress bar with native actionbar progressbar
-Add tabs to coming soon
-Add tabs to main screen
-Move cinema select from list navigation to action
+Move multi cinema select from list navigation to action
 
 
 2.9.4 28th February 2012
