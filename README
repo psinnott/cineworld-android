@@ -24,6 +24,13 @@ Features
 
 Changelog
 
+2.9.5.4 11th February 2013
+
+Fix up navigation in filter screen launched from new film notifications
+Fixed review submit button in Facebook review screen
+Fix dates in coming soon
+Adjust film title layout in list screens
+
 2.9.5.3 23rd October 2012
 
 Updates to cope with changes to Cineworld website coming soon page.
